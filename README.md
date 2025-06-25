@@ -13,7 +13,7 @@ This project aims to predict house prices using machine learning models, focusin
 - `scaler.pkl` – Serialized Scikit-learn scaler used for preprocessing.
 - `README.md` – This file.
 - `MARKET TRENDS AND MACHINE LEARNING PP.pptx` - PowerPoint slides for the project.
-- `README.md` - Project documentation and final evaluation.
+- `R_I_final_document.pdf` - Project documentation and final evaluation.
 
 
 ## Models Used
@@ -21,18 +21,18 @@ This project aims to predict house prices using machine learning models, focusin
 - **Linear Regression**
 - **Random Forest Regressor**
 
-The final trained model (saved as `.pkl`) is **not uploaded here** due to file size restrictions on Teams. However, it is available upon request.
+The best random forest model (saved as `.pkl`) is **not uploaded here** due to file size restrictions on Github. However, it is available upon request.
 
 ## Request the Model
 
-If you would like access to the full trained model file, please contact:
+If you would like access to the best random forest file, please contact:
 
 **Tshiamo Chibua**  
  ttcblm@gmail.com
  tshiamochibua9@gmail.com  
  +267 73604289
 
-I'll send it via email, Google Drive, or WeTransfer based on your preference.
+I'll send it via email, Google Drive, or Teams based on your preference.
 
 ##  Notes
 
