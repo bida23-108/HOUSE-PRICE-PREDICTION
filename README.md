@@ -18,6 +18,7 @@ This project aims to predict house prices using machine learning models, focusin
 - `dashboard.pbix` - A fully responsive dashboard made on PowerBI
 - `image.png` - Screenshot showing the fully deployed and trained model hosted on streamlit
 - `model(1)(2).ipynb` - fully trained model
+- `app.py` - the fully functional house prediction web app, hosted on Streamlit when run
 
 
 ## Models Used
