@@ -17,7 +17,7 @@ This project aims to predict house prices using machine learning models, focusin
 - `New data cleaning report(1)` - dataset cleaning and transformation steps that were taken
 - `dashboard.pbix` - A fully responsive dashboard made on PowerBI
 - `image.png` - Screenshot showing the fully deployed and trained model hosted on streamlit
-- `model.ipynb` - fully trained model
+- `model(1)(2).ipynb` - fully trained model
 
 
 ## Models Used
