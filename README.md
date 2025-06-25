@@ -4,12 +4,12 @@ This project aims to predict house prices using machine learning models, focusin
 
 ## Contents
 
-- `data/` – Contains the cleaned dataset used for training and testing.
-- `notebooks/` – Includes exploratory data analysis, feature engineering, and model development.
-- `scripts/` – Modular Python scripts for data processing, model training, and evaluation.
-- `visuals/` – Performance graphs and visualizations of the model outputs.
-- `presentation/` – PowerPoint slides for project demonstration.
-- `report/` – Project documentation and final evaluation.
+ – Contains the cleaned dataset used for training and testing.
+-  Includes exploratory data analysis, feature engineering, and model development.
+-  Modular Python scripts for data processing, model training, and evaluation.
+-  Performance graphs and visualizations of the model outputs.
+-  PowerPoint slides for project demonstration.
+-  Project documentation and final evaluation.
 - `README.md` – This file.
 
 ## Models Used
