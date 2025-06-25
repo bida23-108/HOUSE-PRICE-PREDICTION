@@ -4,13 +4,17 @@ This project aims to predict house prices using machine learning models, focusin
 
 ## Contents
 
--  `README.md` - Contains the cleaned dataset used for training and testing.
--  `README.md` - Includes exploratory data analysis, feature engineering, and model development.
--  `README.md` - Modular Python scripts for data processing, model training, and evaluation.
--  `README.md` - Performance graphs and visualizations of the model outputs.
-- `README.md` - PowerPoint slides for project demonstration.
-- `README.md` - Project documentation and final evaluation.
+- `cleaned_housing_data.csv` – The cleaned dataset used for analysis.
+- `correlation_heatmap.png` – Visual showing correlation between features.
+- `feature_importances.png` – Random Forest feature importance chart.
+- `geo_price_distribution.png` – Price distribution mapped geographically.
+- `income_vs_price.png` – Relationship between income and house price.
+- `rooms_perh_median.png` – Distribution of rooms per household vs median price.
+- `scaler.pkl` – Serialized Scikit-learn scaler used for preprocessing.
 - `README.md` – This file.
+- `MARKET TRENDS AND MACHINE LEARNING PP.pptx` - PowerPoint slides for the project.
+- `README.md` - Project documentation and final evaluation.
+
 
 ## Models Used
 
